@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run G1 Relax IK Example",
+      "type": "python",
+      "request": "launch",
+      //   "program": "${workspaceFolder}/src/genie_sim_components/kinematics/examples/run_g1_relax_ik_example.py",
+      "program": "${file}",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/src"
+      },
+      "console": "integratedTerminal"
+    }
+  ]
+}

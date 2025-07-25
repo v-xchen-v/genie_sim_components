@@ -15,7 +15,7 @@ This IK solver is implemented in C++ and exposed via Python bindings, built spec
 Install via pip from this folder:
 
 ```bash
-pip install third_party/relaxed_ik/ik_solver-0.4.3-cp310-cp310-linux_x86_64.whl
+pip install third_party/g1_relaxed_ik/ik_solver-0.4.3-cp310-cp310-linux_x86_64.whl
 ```
 ## Note
 
